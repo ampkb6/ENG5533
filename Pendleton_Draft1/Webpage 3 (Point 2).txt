@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+
+<html>
+  <title> On-Campus Activities </title> 
+  <!-- Your HTML code goes here -->
+<style>
+body {background-color: white;
+}
+h1 {
+  color: black;
+  font-family: georgia;
+  text-align: center;
+
+}
+h3 {
+  color: black;
+  font-family: lucida;
+  text-align: center;
+  font-style: italic;
+  
+}
+p {
+  color: black; 
+  font-family: times;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 16px 35px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+</style>
+
+<body>
+
+    <div
+ class="canva-embed"
+ data-design-id="DAD5YouAvQg"
+ data-height-ratio="0.3805"
+ style="padding:38.0488% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"
+></div>
+<script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAD5YouAvQg&#x2F;view?utm_content=DAD5YouAvQg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
+
+  
+<div class="topnav">
+  <a class="active" href="#home">Introduction</a>
+  <a href="#news">The Curriculum</a>
+  <a href="#contact">Student Organizations</a>
+  <a href="#about">Institutional Values</a>
+  <a href="#about">Conclusion</a>
+
+</div>
+  
+
+  <div class="content" style="background-color:lightsteelblue">
+
+    <h1> On-Campus Activities </h1>
+<h3> What opportunities did the students have outside of the classroom? </h3>
+</div> 
+
+	<p> While formal education is one route that students can take to hone their skills in rhetoric, many students have also historically found opportunities outside of the classroom. These communities, which Maisha T. Fisher calls “participatory literacy communities” are places where black students have come historically to practice and develop their rhetoric (Fisher 90). </p> 
+	<p> Students at Fisk University, Howard University, and Atlanta University found one such opportunity from the campus newspaper. This newspaper allowed the students to use their rhetoric and to write to and for black audiences and issues. According to Jarratt, they were able to feel “rhetorical enfranchisement” as they juxtaposed their learning from classes with writing about issues in the papers (Jarratt 140-141).  </p>
+	<p> At Wiley College, students had the opportunity to work with the author, Melvin Tolson, and to be a part of his Speech and debate team. He trained his students to think quickly and persuasively, encouraging them to try to win over even the most reluctant audience person (Gold 47-49). This team allowed for the students to work on their oral rhetoric and presentation, and as such, allowed the students to further their skills outside of the formal classroom. </p> 
+	<p> Other opportunities that students have had in the past come from literary societies and organizations. At Atlanta University, clubs like the Young Christian Temperance Union and the Phyllis Wheatley Literary Club were created by young women on campus to develop leadership and rhetorical skills while simultaneously enjoying literary activities (Royster 198). Thus, clubs and literary societies have historically allowed students to come together to celebrate reading and literature. They have read to one another and worked together on philanthropic opportunities to raise awareness for issues affecting their communities. Through these opportunities outside of the classroom, African American students were able to practice their rhetoric and to make a difference while doing so. </p> 
+<h3> What opportunities did the students at the University of Missouri - Kansas City have outside of the classroom? </h3>
+	<p> The students at the University of Kansas City and eventually the University of Missouri - Kansas City had a wide variety of rhetoric development opportunities available to them throughout the years. From poetry readings to campus journals to a satirical magazine, the students actively partook in chances to develop their oral and written communication skills on the campus. </p> 
+<h4> Campus Publications </h4>
+	<p> On campus, the students had many opportunities to engage their writing skills and to speak on behalf of the campus community. </p> 
+	<p> The first publication on the campus was the University News (formerly, the University Crest). It was one of the first organizations made by students after the university was opened in 1933 (Wolff 25), and it gave the students the opportunity to speak up for their wants and needs in their education. However, the students wanted the newspaper to be student-run, and after too much interference in their paper and the firing of some popular professors on campus, the students would go on to protest the administration. They walked out of their classes for the day, and in the future, this event became commemorated as “Hobo day” in which the students get the chance to run the school (Wolff 26-27).The start of this student publication epitomizes its purpose on the campus. Throughout the years, University News (also known as UNews) has allowed students to practice their rhetoric to speak for student issues on campus. </p> 
+<p> Some of the students from UNews would eventually go off to start a new campus publication. The Kangaroo got its start on campus as a satirical magazine in 1937. It covered student life, gossip, and other humorous topics as well. One such example of the magazine comes from the article, “What, no Swimming Pool?”, a sarcastic celebration of the new Swiney gym on campus in 1941 (Wolff 32, 42). The Kangaroo would continue on campus, picking up the role of the campus yearbook in 1937 as well. </p> 
+<p> These publications allowed students to record and write about life on campus. They covered issues of importance to the students and gave the campus of the University of Kansas City the opportunity to practice their rhetoric for the welfare of their community. </p> 
+
+<h4> Campus Visitors </h4> 
+	<p> The University of Kansas City also strived to promote an environment that celebrated rhetoric by bringing well known and powerful speakers to the campus. They welcomed United States President, Harry Truman in 1945 and the President of Mexico, Miguel Aleman in 1947 (Wolff 50). Additionally, in 1950, the campus was joined by Prime Minister Liaquat Ali Khan of Pakistan (Wolff 56-58). Beyond these dignitaries, the administrators on campus also strived to bring in experts, such as the Cubist sculptor Alexander Archipenko, as visiting professors to give students the opportunity to study with influential scholars in their fields (Wolff 56). One notable campus visitor was the first black lecturer at the University of Kansas City. In 1943, about 100 or more students had the opportunity to sit in Haag Hall and to listen to Langston Hughes speak (Speer 1). Beyond Hughes, other famous campus visitors include John G. Neihardt, Louis Untermeyer, Orson Welles, Mayor Fiorello La Guardia, and Luis Quintanilla (Wolff 38). Finally, shortly after his hire as chair of the English department in 1934, Dr. Clarence Decker started a literary journal on campus which is known today as New Letters (Wolff 27-28). This journal brought the writing of skilled authors and poets to the campus, giving students the opportunity to read and learn from these influential experts. The spirit of international cooperation, and the desire to present students on campus with experts and skilled orators, created an environment at the University of Kansas City where rhetoric was celebrated and encouraged. Students could observe and learn about oration from skilled experts, such as Langston Hughes. Furthermore, the move to bring in an African American poet to the campus demonstrates one way in which the university not only strived to bring about opportunities for rhetorical develop but to recognize black literacy as well. </p> 
+
+<h4> The Radio Program </h4> 
+	<p> Another prominent opportunity that students had to practice rhetoric was the campus radio. Whether they majored in Speech with an emphasis in television and radio or they simply expressed an interest, the students could be involved with the radio programs at the University of Kansas City.  </p> 
+	<p> In the late forties, the University of Kansas City established a radio workshop. The students in this workshop learned how to work in radio by working with local radio stations to put on programs and shows that the students themselves would produce (Wolff 56). In 1957, the first campus radio station, KCUR, was created. A private campaign funded the endeavor, and the students finally had a broadcast signal for their very own station (Wolff 71). They could create their own programs and learn how to run a radio station on their own</p> 
+	<p> The development of a radio program at the University of Kansas City provided a unique opportunity for rhetorical development on the campus. In a speech to the Western Speech Communication Associate, Donald G. Godfrey spoke about the qualities of rhetoric in radio performance. Godfrey argued that radio is a unique demonstration of rhetoric because the speaker must elaborately prepare for the speech due to limited time and regulations they must meet and because there is no direct participation and feedback from the listener to the speaker (Godfrey). As such, the students who had the opportunity to participate in these radio programs on campus learned more than declamation or how to make a speech, they learned how to anticipate and be aware of an audience. They had to prepare for an audience that would not give them any immediate feedback, and this preparation could have been a very influential skill for rhetorical development. </p> 
+<h4> The Theatre Program </h4> 
+	<p> Finally, the Theatre program at the University of Missouri – Kansas City is well regarded today, and its involvement throughout the history of the university has been another influential place for rhetorical development on campus. </p>  
+	<p> The theatre program at the University of Kansas City has a strong tradition of not only putting on student productions but bringing in well-established actors for students to perform with. Actress, Jane Cowl would come to perform with the students for the opening  production at University Playhouse in 1948, and in 1949, former UKC student, Ruth Warrick of Citizen Kane, came back to perform in Candida with the students (Wolff 52). As such, the theatre program at the University of Kansas City demonstrated a diligence toward providing their students with mentors. These mentors, whether professors or famous actors, would give students advice about their rhetorical development. Therefore, students had the chance to act with the best in their field, and to learn how to best present themselves rhetorically by doing it practically. </p> 
+	<p> One powerful mentor off the stage to the students at the University of Kansas City was Susan Dinges. She was heavily involved with the theatre program at the University of Kansas City, (and eventually the University of Missouri – Kansas City), throughout her lifetime. Starting in 1952, one of her primary activities on the campus was teaching creative dramatics workshops. According to Dinges, these classes were structured “to help them [the students] become more effective human beings, better communicators in society” (Armstrong 48). Susan Dinges believed that acting could allow children to learn how to express themselves and to understand themselves (Armstrong 47-49). </p> 
+	<p> Another one of Susan Dinges’ projects with the University of Kansas City was bringing the Children’s Community Theatre to the University Playhouse during the mid-fifties (Armstrong 47). The Children’s Community Theatre taught and demonstrated theatrical performances in the Kansas City community. It functioned partly as volunteer organization for women, but it gave live theatre performances to school children in the community from 1947-1999 (Oliver). The presence of the Children’s Community Theatre on campus allowed students at the University of Kansas City to not only practice their rhetoric through performance but to actively contribute to the rhetorical development of children in the community as well. The affiliation of the university with this program was something that it was proud of, and it advertised it in the campus’s course catalogs (The University of Kansas City Bulletin 209). </p> 
+
+	<p> The expansive and well-developed theatre program at the University of Kansas City offered multiple opportunities for students to become active practitioners in their rhetorical education. William B. Worthen’s book Modern Drama and the Rhetoric of Theater looks at the ways in which theater productions utilize rhetorical concepts. Worthen looks at historical productions and theater trends to distinguish them from one another and to show how they used strategies to meet their audience. Worthen argues that acting and the productions that are put forward are the result of a negotiation of factors. The set, the stage, the actor’s movements and expressions, the dialogue, and the audience all work together to create meaning for that specific performance (Worthen). As such, the students at the University of Kansas City had the opportunity to learn how to navigate the negotiation of audience and performance in their productions and to turn around and teach it to the community. Furthermore, with mentors like Susan Dinges, the students also learned how to express themselves using their bodies and to become skilled in their communication. </p> 
+
+      </div>
+  </body> 
+</html>

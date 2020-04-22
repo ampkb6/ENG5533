@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+
+<html>
+  <title> Curriculum </title> 
+  <!-- Your HTML code goes here -->
+<style>
+body {background-color: white;
+}
+h1 {
+  color: black;
+  font-family: georgia;
+  text-align: center;
+
+}
+h3 {
+  color: black;
+  font-family: lucida;
+  text-align: center;
+  font-style: italic;
+  
+}
+p {
+  color: black; 
+  font-family: times;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 16px 35px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+</style>
+
+<body>
+
+    <div
+ class="canva-embed"
+ data-design-id="DAD5YouAvQg"
+ data-height-ratio="0.3805"
+ style="padding:38.0488% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"
+></div>
+<script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAD5YouAvQg&#x2F;view?utm_content=DAD5YouAvQg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
+
+  
+<div class="topnav">
+  <a class="active" href="#home">Introduction</a>
+  <a href="#news">The Curriculum</a>
+  <a href="#contact">Student Organizations</a>
+  <a href="#about">Institutional Values</a>
+  <a href="#about">Conclusion</a>
+
+</div>
+  
+
+  <div class="content" style="background-color:lightsteelblue">
+
+    <h1> The Curriculum </h1>
+<h3> What were students learning in the classroom? </h3>
+</div>
+
+	<p> One of the most powerful avenues for developing rhetorical skills is formal education. Classrooms are opportunities for students to learn the art of communication through instruction on writing, reading, and speaking among other forms of literacy. For black students in the United States of America, the classroom has historically been a location where they were able to develop these skills. </p>
+	<p> After the civil war, historically black institutions were created to give black students in the United States the opportunity to receive a quality education. When determining the course offerings, many colleges chose to adopt a classical curriculum. In her examination of Howard University, Fisk University, and Atlanta University in the article, “Classics and Counterpublics in Nineteenth-Century Historically Black Colleges”, Susan C. Jarratt discussed the type of curriculum that the schools offered. These three historically black colleges created a classical curriculum because such an offering was a mark of “full personhood” (Jarratt 142). In Jarratt’s article, the first-year course offerings for Freshman at Atlanta University were detailed as covering major Greek books. </p>
+	<p> <i> “Starting with preparatory and normal divisions, AU initiated the college course of study in 1872, announcing the curriculum for the freshman class in its bulletin of 1871-72. Xenophon's Memorabilia, Homer's Odyssey, Livy, Cicero's De Senectute and De Amicitia (On Old Age and On Friendship), Greek and Latin prose composition, and Grecian and Roman history were listed, along with algebra, geography, composition, and declamation” (Jarratt 137)</i> </p>
+	<p> The focus on classical Greek and the Latin language is one that allowed the schools to resemble the course offerings at Harvard. Atlanta University’s curriculum as it first started showcases the ways in which universities that wanted to give the best opportunities to their students chose to utilize classical curriculums. This is a move that was followed by other institutions such as Wiley College. David Gold states that while other schools were shifting to written composition and replacing the emphasis on oratory for rhetoric education, private black schools like Wiley College still found the value in such a classical curriculum (Gold 20). Wiley College perceived a classical liberal arts education as “a right of citizenship”, and they worked hard to prepare their students with instruction on classical concepts and foreign language (Gold 25). </p>
+	<p> Another study of curriculum at traditionally black colleges comes from the book, Traces of a Stream, in which Jacqueline Jones Royster also looked at the formal education opportunities that black women had during this time. Royster argues that at Atlanta University, black women had the chance to develop their rhetorical skills. She writes, “they received formal education in composition, logic, rhetoric, and elocution and had, therefore, the opportunity to think of themselves as readers, writers, thinkers, and speakers” (Royster 197). The formal education opportunities and curriculum available to African American students are crucial for their personal development and for them to be able to perceive themselves as rhetors. It created a shift in mindset and opportunity for the students at these universities. </p>
+<h3> What did the curriculum look like at UMKC? </h3>
+	<p> One of the items in the University Library’s archives are the University of Kansas City Bulletins. These booklets are the course catalogs for the school, and they detail the course offerings and requirements for the students at the University. Therefore, the bulletins provide information on the formal education that students received on rhetoric during this time period. </p>
+	<p> The general education curriculum at the University of Kansas City in 1955 required a few English courses. As a part of the Foundations program, students were required to take a “Foundations in World Literature” or a year of Foreign Language for their Great Books requirement and “Freshman English” for their Writing requirement. The “Foundations in World Literature” course is described as “Major ideas that have influenced civilization as revealed in some of the world’s greatest books (in English or English translation)”, and the “Freshman English” course is described as “fundamentals of writing, with special emphasis on the  logical thought habits which underlie good usage in written communications”  (The University of Kansas City Bulletin 72-73). </p> 
+	<p> The description of the “Great Books” course aligns the university’s general education curriculum with that of the classical curriculum taught at other universities. These courses that are described for the general English curriculum here correlate with traditional course offerings at historically black colleges because they taught classical literature, and in doing so, they were able to help give student the access for full personhood. </p>
+	<p> While all students had to take the courses required by the General Education curriculum, students also had the opportunity to major in English or Speech at the University of Kansas City. While the general education requirements firmly place the curriculum at the school as similar to that of the historically black colleges, the curriculum for English and Speech majors also helped to appeal to this classical curriculum. Students could take classes on Chaucer, Shakespeare, and Milton, and they had survey literature classes where they studied “the major English poets from Chaucer to the present” (The University of Kansas City Bulletin 89). The focus of the English curriculum at the school then studied the classic poets and rhetors throughout history. However, it also offered opportunities for students to look at modern and American literature. They could take classes on creative writing and journalism, and they could study American poets from the 1900 to present (The University of Kansas City Bulletin 92). </p> 
+	<p> Outside of the traditional notions of literary study, students also had the opportunity for formal rhetoric education through the Speech department at the University of Kansas City. Speech became an official major option for the school in the fifties, and as such, students were then able to learn how to present themselves rhetorically through formal classes on public speaking, radio, and theater. Furthermore, students in the program were also able to declare an emphasis in one of six potential options: “public address, oral interpretation, theatre, radio-television, general speech, and speech education” (The University of Kansas City Bulletin 146).</p> 
+
+	<p> All of these courses allowed the students to develop their spoken rhetoric. They learned how to present themselves and how to communicate whether in performance or for everyday life.  Furthermore, the students not only learned about these concepts theoretically, but through practice. The Speech program at the University of Kansas City was one that promoted direct practice and hands-on learning in this topic. The students in the theatre program were a part of productions and helped to coordinate children’s theatre productions at the University Playhouse (The University of Kansas City Bulletin 146). Students in the radio program at the University of Kansas City had classes in which they were directly involved with the campus radio program, and as such, they not only took classes on developing skills in radio but they had the opportunity to actively participate in this rhetoric practice while receiving this formal education. </p> 
+	<p> The focus on oral literacies is one that appeals to the strong rhetorical tradition for African Americans. In Maisha T. Fisher’s book, Black Literate Lives, Fisher suggests that orality is a part of black literacy that needs to be acknowledged (Fisher 20-21). Therefore, having developed programs that develop oral communication skills indicates the program is one that would reach and acknowledge black literacy. </p> 
+	<p> Not only did the University of Kansas City offer opportunities and a curriculum that would meet the needs of their diverse population, but they offered a night school option during this time so that students from non-traditional circumstances could still receive an education. This educational opportunity was crucial for students who had to work part-time or full-time jobs while in school, adults coming back to school, and other non-traditional students who would be otherwise denied an education. </p> 
+
+	<p> The language of this program and its inclusion in the course catalogue of this time show how valued it was to the university. They were aware of the diverse populations and situations of students in Kansas City, and their programs and curriculum reflected their desire to meet their needs. </p> 
+
+
+      </div>
+  </body> 
+</html>

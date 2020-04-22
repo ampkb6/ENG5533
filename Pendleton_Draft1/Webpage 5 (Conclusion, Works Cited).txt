@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+
+<html>
+  <title> Conclusion </title> 
+  <!-- Your HTML code goes here -->
+<style>
+body {background-color: white;
+}
+h1 {
+  color: black;
+  font-family: georgia;
+  text-align: center;
+
+}
+h3 {
+  color: black;
+  font-family: lucida;
+  text-align: center;
+  font-style: italic;
+  
+}
+p {
+  color: black; 
+  font-family: times;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 16px 35px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+</style>
+
+<body>
+
+    <div
+ class="canva-embed"
+ data-design-id="DAD5YouAvQg"
+ data-height-ratio="0.3805"
+ style="padding:38.0488% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"
+></div>
+<script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAD5YouAvQg&#x2F;view?utm_content=DAD5YouAvQg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
+
+  
+<div class="topnav">
+  <a class="active" href="#home">Introduction</a>
+  <a href="#news">The Curriculum</a>
+  <a href="#contact">Student Organizations</a>
+  <a href="#about">Institutional Values</a>
+<a href=#about">Conclusion</a>
+</div>
+  
+
+  <div class="content" style="background-color:lightsteelblue">
+
+    <h1> Conclusion </h1>
+<h3> Did the University of Kansas City/ University of Missouri - Kansas City meet the needs of its diverse student body? 
+</h3>
+</div>
+<p> To put it quite simply: Yes, and no. There are significant moves that have been made at the university during the long sixties that allowed them to provide students with a wealth of opportunities for rhetorical development. However, we have also historically not met the needs of all of our students at times. </p>
+<p> The university’s curriculum and educational programs demonstrate a desire by the college to reach all of their students. Their emphasis on language and literature of the world is aligned with the traditional curriculum of historically black colleges that wanted their students to receive the full education that humans deserve. Furthermore, their night school program and speech major allowed for students to come from nontraditional backgrounds and to practice nontraditional forms of rhetoric and communication. </p>
+<p> Outside of the classroom, students also had a wealth of opportunities to practice and hone their rhetoric. They could write in campus publications, attend lectures from famous rhetors, be a part of the campus radio station, or act with world class actresses. They could participate in active learning through these endeavors and through cooperation with the community, they could help to educate others as well. </p>  
+<p> Finally, from 1954-1960, the university demonstrated a positive and welcoming attitude to the diverse student population. They celebrated them through their course catalogs, and they had an administration, and specifically Dr. Hugh Speer, that supported their presence. While the institution does not reflect this same attitude in the years preceding and following this time period, we can look back and learn now about how to best create an institution that supports all of its students. </p> 
+<p> I offer this conclusion as motivation moving forward. As the university adapts toward the modern age and is currently in the process of recreating their general education curriculum, we need to look back to see where we can improve. The institution needs to align itself philosophically behind the mission to reach all of our students, and we need to check how we are presenting ourselves rhetorically. We need to make sure that our classrooms, our campus activities, and our institutional attitudes reflect our desire to make every student feel welcome. Otherwise, the student population will not receive the best possible education that they deserve. In order to truly follow the words of Kansas City’s congressional representative, the university needs to examine its attitudes and practices to ensure that a quality education is truly available to the wide variety that exists in our student body. </p> 
+
+
+<h3> About the Author </h3> 
+<p> Ashley Pendleton is a graduate student at the University of Missouri-Kansas City. After graduating with a Bachelor’s degree in both English and English Education and being certified in teaching Secondary English in the state of Missouri, she decided to continue her education with a Master’s degree in English. The experience teaching in high schools around Missouri gave her the passion to propose more inquiry into First-Year Composition (FYC) curriculum and how it relates to the Missouri Learning Standards. Ashley is currently a Graduate Teaching Assistant for the University of Missouri-Kansas City and will be presenting “Using Mentor Texts to Teach Genre” as a part of the Teacher2Teacher forum at the Conference on College Composition and Communication this March. She believes in the potential in every student and is dedicating her life to the field of academia so that she may perpetuate the inspiration to young students across the world. </p> 
+
+<h3> Works Cited </h3> 
+<p>Armstrong, Kara. <i> Women of Kansas City – Theatre Mentors </i>, University of Missouri – Kansas City, 2004. Web. March 2020. </p>
+
+<p>Fleming, David. <i> From Form to Meaning: Freshman Composition and the Long Sixties, </i>1957-1974. Pittsburgh, University of Pittsburgh Press, 2011. </p>
+<p>Godfrey, Donald G. “Rhetorical Perspectives in Radio Communications: The Speaker and the Loudspeaker”. Annual Meeting, the Western Speech Communication Association, November 1974, Newport Beach, CA. </p>
+<p>Gold, David. <i> Rhetoric at the Margins: Revising the History of Writing Instruction in American Colleges, 1873-1947. </i> Southern Illinois University Press, 2008. </p>
+
+<p>Jarratt, Susan C. “Classics and Counterpublics in Nineteenth-Century Historically Black Colleges.” <i>College English,</i> vol. 72, no. 2, 2009, pp. 134-159. </p>
+
+<p>Oliver, Sarah. <i>Kansas City’s Community Children’s Theater: A History</i>. University of Missouri – Kansas City, 2008. Web. March 2020.  </p>
+<p>Prendergast, Catherine. “The Economy of Literacy: How the Supreme Court Stalled the Civil Rights Movement.”  <i>Harvard Educational Review</i>, vol. 72, no. 2, 2002, pp. 216-229. </p>
+<p><i>Report on Transitional Year 1969-70, College of Arts and Sciences,</i> University of Missouri-Kansas City. Jan. 1970. </p>
+
+<p>Royster, Jacqueline Jones. “From this Fertile Ground.” <i>Traces of a Stream,</i> University of Pittsburgh Press, 2000. </p>
+<p>Skinnell, Ryan. <i>Conceding Composition: A Crooked History of Composition’s Institutional Fortunes.</i> Utah State University Press, 2016. </p>
+
+<p>Speer, Hugh. “A Short Black History of the University of Kansas City.” 1977. LaBudde Special Collections, University of Missouri – Kansas City, Kansas City, 17 March 2020. </p>
+<p> “Statement on Language, Power, and Action.” <i> Conference on College Composition & Communication,</i> National Council Teachers of English, Nov. 2016, https://cccc.ncte.org/cccc/language-power-action</p>
+<p> “Student Profile FS2018.” <i>University of Missouri-Kansas City</i>, Curators of the University of Missouri, 8 Nov. 2018, https://data.umkc.edu/reports/files/PDF/FS2018%20Student%20Profile.pdf </p>
+<p><i>The Kangaroo.</i> 1954-1960. LaBudde Special Collections, University of Missouri – Kansas City, Kansas City, 17 March 2020. </p>
+<p>Issues analyzed: 1954-1955, 1955-1956, 1956-1957, 1957-1958, 1958-1959, 1959-1960, 1960-1961. </p>
+
+<p><i>The University of Kansas City Bulletin</i>. 1953-1962. LaBudde Special Collections, University of Missouri – Kansas City, Kansas City, 17 March 2020. </p>
+<p><i>The University of Missouri – Kansas City Bulletin</i>. 1961-1966. LaBudde Special Collections, University of Missouri – Kansas City, Kansas City, 17 March 2020. </p>
+<p>Issues analyzed: 1953-1954, 1954-1955, 1955-1956, 1956-1957, 1957-1958, 1958-1959, 1959-1960, 1960-1961, 1961-1962, 1963-1966</p>
+
+<p>Wolff, Christopher. <i>The Pearl of Great Value: The History of UMKC, Kansas City’s University</i>. Kansas City, UMKC Publishing, 2016.  </p>
+<p>Worthen, William B. <i>Modern Drama and the Rhetoric of Theater</i>.  University of California Press, 1992. </p> 
+
+
+</div>
+  </body> 
+</html>

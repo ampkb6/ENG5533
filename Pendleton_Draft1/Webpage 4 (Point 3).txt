@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+
+<html>
+  <title> Institutional Attitudes </title> 
+  <!-- Your HTML code goes here -->
+<style>
+body {background-color: white;
+}
+h1 {
+  color: black;
+  font-family: georgia;
+  text-align: center;
+
+}
+h3 {
+  color: black;
+  font-family: lucida;
+  text-align: center;
+  font-style: italic;
+  
+}
+p {
+  color: black; 
+  font-family: times;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 16px 35px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+</style>
+
+<body>
+
+    <div
+ class="canva-embed"
+ data-design-id="DAD5YouAvQg"
+ data-height-ratio="0.3805"
+ style="padding:38.0488% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"
+></div>
+<script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAD5YouAvQg&#x2F;view?utm_content=DAD5YouAvQg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
+
+  
+<div class="topnav">
+  <a class="active" href="#home">Introduction</a>
+  <a href="#news">The Curriculum</a>
+  <a href="#contact">Student Organizations</a>
+  <a href="#about">Institutional Values</a>
+<a href=#about">Conclusion</a>
+</div>
+  
+
+  <div class="content" style="background-color:lightsteelblue">
+
+    <h1> Institutional Attitudes </h1>
+<h3> How did the university attempt to reach diverse students? </h3>
+</div>
+
+	<p> In an investigation of the Composition curriculum at the University of Arizona, Ryan Skinnell determined that the content and curriculum for a First-Year Composition class is directly affected by the institution. What happens in the classroom is affected by what is happening to the institution and the shifts that it is undergoing (Skinnell 24). Furthermore, in the book, From Form to Meaning: Freshman Composition and the Long Sixties, David Fleming also proposes that the curriculum and activities inside the freshman composition classrooms could have been directly impacted by the state of society surrounding it. Therefore, it is pertinent to not only look at the curriculum of the university and the opportunities that students had to develop rhetoric on campus but to also investigate the institution itself and its attitudes and responses to the Civil Rights movements of the sixties to understand best how the diverse students at the University of Kansas City were being met. </p>
+	<p> One such policy that could interest researchers looking at the University of Kansas City is the implementation of the Transition Year program in 1969. This program was designed to help ease students from disadvantaged inner-city schools into the rigor of a college environment (Report on Transitional Year 1969-70). Programs and initiatives like the Transition Year program, the evening college option, and even the Children’s community theater show a decisive effort by the administration to help students. Students from disadvantaged backgrounds or in nontraditional situations were supported by the policies and programs at the University of Kansas City at this time. However, it becomes interesting to look not only at the programs in place to reach these students but the ways in which the university decided to market itself. </p>
+	<p> When looking through the course catalogs at the University of Kansas City, I observed a drastic difference in the appearance of the University of Kansas City bulletins over the course of the civil rights movement. From 1950-1963, the course catalogs underwent two major shifts in their appearance and structure. The distinct differences in formatting for the course catalogs suggests their appointment to three separate categories: 1950-1953, 1953-1960, and 1960-1963. I propose that the shifts seen in these documents should be analyzed because the institution’s attitude affects the classroom and these documents reflect the institution’s attitude. </p> 
+	<p> During the first few years of the fifties, the University of Kansas City course catalogs seemed traditional. They contained the mission of the university, specific information about student life on the campus, and they gave an overview of the courses available to students. </p> 
+	<p> However, starting in 1954, the course catalogs start to take on a new look. Their pages are filled not only with descriptions but with pictures that demonstrate student life on campus. These pictures are crucial to understand because they show an aesthetic appeal that the university decided to take on. The shift in formatting indicates a new approach for reaching the audience. Instead of relying on the audience’s ability to navigate a text, the university added pictures. I believe that this move indicates the university’s desire to reach a wider audience. In comparison to previous editions of the course catalogs that may only be understood by those already entrenched in academia, these catalogs made the attempt to reach a new audience. They made their text more accessible. Furthermore, the subject of the photos themselves supports this interpretation because in the pages of these course catalogs, the university made the decision to depict minority groups. </p> 
+	<p> Throughout the catalogs from 1954-1959, there are a few pictures of black and white students together in class or attending orientation. Furthermore, there are pictures of women learning in the classes, and quite possibly the most intriguing photo is that a female scientist. These photos in the course catalogs indicate that the university is both advertising the presence of minority students on campus and advertising to traditionally marginalized groups at the same time. </p> 
+	<iframe frameborder="0" class="juxtapose" width="100%" height="939" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=558da150-8451-11ea-a879-0edaf8f81e27"></iframe>
+	<p> The other most interesting point about this shift in the catalogues is the programs that they advertise. In the back of the second wave of course catalogs for this era, the university dedicates a section to describing the University and its interactions with the community that was not there prior. On this page, the university demonstrates its dedication to the community of Kansas City, including programs such as the Community Children’s Theatre. </p>  
+
+	<p> The final shift of course catalog formatting comes about in 1960. It is then that the catalog once again shifts in its directed audience. In these pages, the pictures of female scientists and African American students are no longer present. They are replaced with sketches of state-of-the-art facilities and white men in the dentistry program. There are fewer pictures at all in the catalogs, and the ones that are present show no diversity on campus. Furthermore, the catalogs in these years also began to break up by discipline. These were the first years that there were separate catalogs for the College of Dentistry, Medicine, etc. These changes show a shift in audience outreach once again. Because these catalogs were no longer concerned with appealing to diverse students or giving them a multimodal way of accessing or understanding the documents, they broke them up into disciplines and took away the pictures modeling them. </p> 
+
+	<p> These shifts in course catalogs are important to analyze because they give us information about how the university itself felt about their student body and the student body that they were attempting to bring in. While the first black students were admitted in 1948, the university itself seemed to not advertise to this prospective student population for a few years. There were no pictures present of African American students on campus until the course catalog shift of 1954, and according to University of Missouri – Kansas City historian Christopher Wolff, the Kansas City Star made the decision not to report the admittance of these students to the university for at least a year. Additionally, the campus yearbook, the Kangaroo, also made the decision to not mention the students or include photos of them until 1950 while the University News did not report on the story at all (Wolff 55). For the first part of the fifties, there was an active effort to not acknowledge or recognize the presence of these students on the campus</p> 
+	<p> One major institutional event which happens to correlate with the shift in course catalogs is the appointment of Dr. Earl J. McGrath as President of the University in 1953. The previous president, Dr. Clarence Decker, was noted as being afraid of the backlash from the admittance of African American students to the school (Wolff 55), and as such, it brings about the potential implications that the change in administration was necessary for the students to truly be accepted and welcomed on campus. Within the year that Dr. McGrath was named president, the new course catalogs took on a drastic new look that appealed to new audiences, such as the diverse student body at the University of Kansas City. </p>
+<p> Another significant presence on the campus that could have also contributed to this environment at the time was Dr. Hugh Speer. Speer was the former Director of the Veterans Advisement Center before he became the Dean of the School of Education in 1954. In his essay, “A short black history of the University of Kansas City”, Dr. Speer recounted his experience in attempting to integrate the campus. He made the decision to accompany black veterans in the school’s lunchroom so that they would not be embarrassed (Speer 2), and this move set forward the motion for integration of the student body itself. He helped to start the integration movement on the campus, and in the fifties, Speer also helped with race relations in another major way, by being involved with the Brown vs. the Board of Education trial. According to Speer, the university helped to start an integrated preschool in 1949, and it was because of this preschool that he actually testified at the trial in Topeka. With a group of fellow educators in the area, he attended the trial, and he was examined to discuss the impact of desegregated education upon the students. </p> 
+
+	<p> <i> “In trying to discourage me, the school men of Topeka had warned me about their “mean” lawyer. Early in the trial, with a rather derogatory tone, he had referred to my charts as the work of “some school teacher from Kansas City”.  He naturally resented the influx of carpet-baggers from Missouri, where schools were more generally segregated than in Kansas. At one point in my cross-examination, he asked if it would not cause inferiority feelings in a Black child if he attended a school in which he was outnumbered maybe twenty or fifty to one. I was happy to be able to report that in the Nelson demonstration school, conducted by our department in the summers, that there were approximately ten Black children among an enrollment of 210. (Page 51 of “The Case of the Century”) I could testify that according to my own observations and the reports of Margaret Dudley and the staff the Black children were happy and well adjusted” (Speer 8). </i></p> 
+
+	<p> Therefore, on the campus of the University of Kansas City there was a man who not only supported integrated instruction but testified for it in one of the most influential court cases of all time. His appointment by the new President of the university, and the new shift in administration itself, is correlated then with a time in which the university appears to have advertised themselves to a diverse population. They actively used their publication to show that they valued their diverse student and that they had programs which could meet the needs of non-traditional students. </p> 
+	<p> Over the course of the rest of the decade, the university would start to find itself in financial trouble. In 1961, it became apparent that there was a budget deficit of $655,550 (Wolff 76), and so the university began to talk about a potential merger with the University of Missouri system, a merger that would become finalized in 1963. In response to the budget deficit, the university attempted to cut back their support of some programs. They cut off the intercollegiate athletic programs as well as their funding for the campus radio station. This decision infuriated the student body and led to “the March Riots” in which students burned effigies of the trustees in front of the Administration building. Finally, their discontent led to the resignation of Chancellor Drake and yet another shift in the administration, one that would be further impacted by the upcoming merger with the University of Missouri system (Wolff 76). </p> 
+
+	<p> As such, the changes in administration and their attitudes can be seen in the course catalogs themselves. Throughout the shifts of those in charge, the university also changed who they attempted to market their campus to in these documents. Their attitudes and priorities shaped the campus atmosphere, and in times of budget deficit and fear of public reaction, it can be seen in the course catalogs, that the diverse student population was not a priority. </p> 
+</div>
+  </body> 
+</html>

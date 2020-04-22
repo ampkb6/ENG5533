@@ -1,0 +1,92 @@
+
+<!DOCTYPE html>
+
+<html>
+  <title> Home Page </title> 
+  <!-- Your HTML code goes here -->
+<style>
+body {background-color: white;
+}
+h1 {
+  color: black;
+  font-family: georgia;
+  text-align: center;
+
+}
+h3 {
+  color: black;
+  font-family: lucida;
+  text-align: center;
+  font-style: italic;
+  
+}
+p {
+  color: black; 
+  font-family: times;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 16px 35px;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+</style>
+
+<body>
+
+    <div
+ class="canva-embed"
+ data-design-id="DAD5YouAvQg"
+ data-height-ratio="0.3805"
+ style="padding:38.0488% 5px 5px 5px;background:rgba(0,0,0,0.03);border-radius:8px;"
+></div>
+<script async src="https:&#x2F;&#x2F;sdk.canva.com&#x2F;v1&#x2F;embed.js"></script>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAD5YouAvQg&#x2F;view?utm_content=DAD5YouAvQg&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">
+
+  
+<div class="topnav">
+  <a class="active" href="#home">Introduction</a>
+  <a href="#news">The Curriculum</a>
+  <a href="#contact">Student Organizations</a>
+  <a href="#about">Institutional Values</a>
+<a href=”#about”>Conclusion<a/>
+</div>
+  
+
+  <div class="content" style="background-color:lightsteelblue">
+
+    <h1> INTRODUCTION </h1>
+<h3> Recovering Rhetoric Education at the University of Missouri - Kansas City </h3>
+</div>
+    <p> Emanuel Cleaver, one of the congressional representatives for Kansas City, Missouri, once said, "You make America great by making America available to a wide variety of people" ("Emanuel Cleaver Quotes"). Kansas City, Missouri, is in the heart of America, and with a population of 491,918 people ("Quick Facts: Kansas City city, Missouri."), this large city knows the importance of making the American dream accessible. One of the ways that Kansas City values this dream is through education, and in teaching the diverse range of students that come into its schools. In the fall of 2018, the percentage of minority students that were on campus at the University of Missouri- Kansas City (UMKC) was 25% ("Student Profile FS2018"). Furthermore, 10% of the overall population was African American, 9% was Asian, and 8% was Hispanic/Latino ("Student Profile FS2018"). These statistics demonstrate that the campus of UMKC has a diverse population, and as teachers, we need to ensure that diverse population needs are met educationally here. We need to look back at rhetoric education practices at UMKC because we are a unique environment, and we need to see how we have addressed the ideologies concerning black literacy and teaching practices on our campus. 
+</p>
+ <p> A court case in the past that provides cause for an examination into our teaching history is the Regents of the University of California vs. Bakke. In this case, the Harvard standard was used to determine an affirmative action case against the University of California at Davis Medical School. Alan Bakke claimed that his rejection from the medical school at Davis was due to the unfair advantage that Affirmative Action gave. Bakke’s case rested upon the fact that the school had a set number of seats for minority applicants, and as such, Bakke was denied a fair chance at admissions. One of the lawyers in the case made a sly joke in response to questioning, stating, “well I come from Harvard,” (Prendergast). This comment led to the final decision because the judges then looked to Harvard’s standard on affirmative action as a guide (Prendergast). Harvard and the other Ivy League schools are seen as the standard for universities, especially when it comes to reading and writing instruction. Unfortunately, the student population and environment at Harvard is not replicated at the other universities that are attempting to follow its lead.  </p>
+<p> In his 2008 book, Rhetoric at the Margins, David Gold looks outside of the Ivy League standard to investigate a history of teaching rhetoric at institutions such as Wiley College, Texas Woman’s University, and East Texas Normal College. In conducting this study of their institutions, Gold aimed to broaden the historical notion of rhetoric education for the field of Composition and Rhetoric studies. Gold wrote, “I am interested in the institutions of this study because I am convinced they have something to teach us, something that broad, general curricular histories have missed” (Gold 12). Gold discovered the value in the rhetoric at the margins of society; however, I believe that in order to understand rhetoric education a diverse environment, we must investigate these practices at the University of Missouri-Kansas City (UMKC). </p>
+	<p>UMKC is in the middle of a large urban city with a diverse population. The environment of UMKC is not like that of the 1960’s Harvard or even the colleges described in Gold’s study. Kansas City is a unique urban town in the Midwest, and an investigation into the practices of how teachers have met the needs of their students while teaching rhetoric will be crucial for scholars to understand composition studies for local colleges today. Therefore, for this project, I will be recovering the rhetorical education practices at UMKC to trace the institution’s history and how it teaches rhetoric with a diverse population. This investigation will look into the teaching practices of the college and the ideologies about black literacy that it addresses or perpetuates. <p>
+    <p> While the University of Missouri - Kansas City is the current name of the college, The University of Kansas City is the school’s predecessor as it did not join the University of Missouri system until 1963 (Wolff). The University of Kansas City was created to give students in the Kansas City area an opportunity for higher education in the area in 1933, and from 1933 to 1963, it operated in the city. This time period and the subsequent years that follow the merger can provide insight into how the university handled the time of the civil rights movement and how it treated diverse students on the campus in the past. </p>
+<p> The University of Kansas City’s acceptance of African American students started with philosophical shifts about having black students on campus after the Second World War. After the war, the University was required to provide services to black veterans on campus, and their presence there started the move for integration at the school (Speer 2). In the 1948 school year, a vote was cast, and the University of Kansas City decided to officially accept African American students to the school (Speer 3). Harold Holliday then became the first African-American student accepted to the university that fall, and by the year 1950, over 150 African American students would enroll at the University of Kansas City (Wolff 54). I propose that studying the rhetorical environment of the school throughout this time will allow scholars today to see the ways in which rhetorical education was approached in an urban university during the civil rights movement. By examining course catalogs, campus publications, and other university records from the University of Kansas City and the University of Missouri- Kansas City, I aim to trace the way that rhetoric was promoted or taught on the campus during the long sixties. The results of my research should reveal if the needs of diverse populations have been met so that scholars at UMKC can ensure that we are adapting while developing the new general education curriculum. Furthermore, this study can give additional insight into African American literacy sponsorship at colleges in Kansas City in the 20th century. </p>
+<p> Using these resources to study the history of rhetoric education at UMKC is crucial because we need to evaluate how black literacy has been sponsored at this institution and in Kansas City. The CCCC Position Statement on Language, Power, and Action is one that states their commitment to promoting thoughtfulness in composition studies. However, it further claims, “Acting on these commitments requires respect for diversity, equity, social justice, and intellectual and pedagogical freedom” (“Statement on Language, Power, and Action”). To ensure that composition classrooms are meeting the needs of their students and providing them with the best opportunities possible as is required by the CCCC, our classrooms must reflect respect to diversity and social justice. This commitment can only be made possible here at UMKC by investigating past and current practices to see how UMKC’s rhetoric education has reached minority students during difficult times in history and how it is reaching them at present. </p>
+	<p> A look into the past can act as a guiding force for the future. Gold’s search into the rhetorical education practices of non-traditional colleges validated the educational methods outside of the Ivy Leagues, and in looking back at the practices at UMKC, I hope to do the same. The focus for rhetoric standards is on the East coast, and while Gold gives new insight into practices in the South, the Midwest still needs to be investigated. </p>
+<p> Recovering how rhetoric was taught or promoted in a Midwestern University with a diverse population will provide new insight on rhetorical practices, and for the curriculum committee that is devoted to redoing the new general education curriculum at the University of Missouri-Kansas City, it can shine a light on practices that need to be implemented once again. </p>
+      </div>
+  </body> 
+</html>
+
